@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Subcategorized</name>
+	<author>Neronix17</author>
+	<packageId>Neronix17.UI.Subcategorized</packageId>
+	<url>https://www.patreon.com/neronix17</url>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>Overhaul for specific architect categories to be subcategorized. For example, splitting furniture so it is organized by Beds, Tables, Storage and Lighting. Mod support is added only for mods I use, it's very easy for any modder to patch their own stuff or for someone to make their own patch mod adding mods they want to use. Hell if you want this is all XML using Tabula Rasa so you can just make one however you prefer.</description>
+</ModMetaData>

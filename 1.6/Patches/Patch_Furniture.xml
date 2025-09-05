@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+	<!-- Convert main tab into subcategory -->
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>/Defs/DesignationCategoryDef[defName="Furniture"]</xpath>
+		<value>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay" />
+		</value>
+	</Operation>
+
+	<!-- ========== Provide categories to appropriate buildings ========== -->
+	
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>/Defs/ThingDef[@Name="SleepingSpotBase"]</xpath>
+		<value>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Beds</li>
+				</subcategories>
+			</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>/Defs/ThingDef[@Name="BedBase"]</xpath>
+		<value>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Beds</li>
+				</subcategories>
+			</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>/Defs/ThingDef[defName="AnimalSleepingSpot"]</xpath>
+		<value>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Beds</li>
+				</subcategories>
+			</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>/Defs/ThingDef[@Name="AnimalBedFurnitureBase"]</xpath>
+		<value>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Beds</li>
+				</subcategories>
+			</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>/Defs/ThingDef[defName="Stool"
+			or defName="DiningChair"
+			or defName="ArmChair"
+			or defName="Couch"]</xpath>
+		<value>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Seating</li>
+				</subcategories>
+			</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>/Defs/ThingDef[@Name="TableBase"]</xpath>
+		<value>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Tables</li>
+				</subcategories>
+			</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>/Defs/ThingDef[defName="PlantPot"]</xpath>
+		<value>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Decoration</li>
+				</subcategories>
+			</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>/Defs/ThingDef[@Name="TorchBase"
+			or @Name="LampBase"]</xpath>
+		<value>
+			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+				<subcategories>
+					<li>Lighting</li>
+				</subcategories>
+			</li>
+		</value>
+	</Operation>
+
+</Patch>
