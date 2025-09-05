@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Patch>
 
-	<!-- Convert main tab into subcategory -->
 	<Operation Class="PatchOperationAddModExtension">
-		<xpath>/Defs/DesignationCategoryDef[defName="Production"]</xpath>
+		<xpath>/Defs/DesignationCategoryDef[defName="Ideology"]</xpath>
 		<value>
 			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay" />
 		</value>

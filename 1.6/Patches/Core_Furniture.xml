@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Patch>
-
-	<!-- Convert main tab into subcategory -->
-	<Operation Class="PatchOperationAddModExtension">
-		<xpath>/Defs/DesignationCategoryDef[defName="Furniture"]</xpath>
-		<value>
-			<li Class="TabulaRasa.DefModExt_SubcategoryDisplay" />
-		</value>
-	</Operation>
-
-	<!-- ========== Provide categories to appropriate buildings ========== -->
 	
 	<Operation Class="PatchOperationAddModExtension">
 		<xpath>/Defs/ThingDef[@Name="SleepingSpotBase"]</xpath>
