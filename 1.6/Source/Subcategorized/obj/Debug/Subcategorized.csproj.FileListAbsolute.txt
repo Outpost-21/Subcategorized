@@ -1,0 +1,4 @@
+G:\RWModCategories\Neronix17\_UI\Subcategorized\1.6\Assemblies\Subcategorized.dll
+G:\RWModCategories\Neronix17\_UI\Subcategorized\1.6\Source\Subcategorized\obj\Debug\Subcategorized.csproj.AssemblyReference.cache
+G:\RWModCategories\Neronix17\_UI\Subcategorized\1.6\Source\Subcategorized\obj\Debug\Subcategorized.csproj.CoreCompileInputs.cache
+G:\RWModCategories\Neronix17\_UI\Subcategorized\1.6\Source\Subcategorized\obj\Debug\Subcategorized.dll

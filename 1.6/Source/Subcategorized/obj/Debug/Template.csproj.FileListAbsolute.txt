@@ -1,0 +1,4 @@
+C:\RWModCategories\Neronix17\TEMPLATE 1.4\1.4\Assemblies\Template.dll
+C:\RWModCategories\Neronix17\TEMPLATE 1.4\1.4\Source\RimWorld 1.4 Template\obj\Debug\Template.csproj.AssemblyReference.cache
+C:\RWModCategories\Neronix17\TEMPLATE 1.4\1.4\Source\RimWorld 1.4 Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\RWModCategories\Neronix17\TEMPLATE 1.4\1.4\Source\RimWorld 1.4 Template\obj\Debug\Template.dll

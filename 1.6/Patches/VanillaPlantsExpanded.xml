@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patch>
+
+	<Operation Class="PatchOperationConditional">
+		<xpath>/Defs/TerrainDef[defName="VCE_TilledSoil"]</xpath>
+		<match Class="PatchOperationSequence">
+			<operations>
+				<!-- Change Designation Category -->
+				<li Class="PatchOperationReplace">
+					<xpath>/Defs/TerrainDef[defName="VCE_TilledSoil"]/designationCategory</xpath>
+					<value>
+						<designationCategory>Floors</designationCategory>
+					</value>
+				</li>
+				<!-- Add Subcategory -->
+				<li Class="PatchOperationAddModExtension">
+					<xpath>/Defs/TerrainDef[defName="VCE_TilledSoil"]</xpath>
+					<value>
+						<li Class="TabulaRasa.DefModExt_SubcategoryDisplay">
+							<subcategories>
+								<li>Terrain</li>
+							</subcategories>
+						</li>
+					</value>
+				</li>
+			</operations>
+		</match>
+	</Operation>
+
+</Patch>

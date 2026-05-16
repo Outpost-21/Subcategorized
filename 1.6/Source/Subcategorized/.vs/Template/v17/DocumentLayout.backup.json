@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Template||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA15FCF2-F414-4567-A488-24DB749F1D06}|Template.csproj|f:\\rwmodcategories\\neronix17\\template 1.6\\1.6\\source\\template\\utilities\\logutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA15FCF2-F414-4567-A488-24DB749F1D06}|Template.csproj|solutionrelative:utilities\\logutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA15FCF2-F414-4567-A488-24DB749F1D06}|Template.csproj|F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\utilities\\settingsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA15FCF2-F414-4567-A488-24DB749F1D06}|Template.csproj|solutionrelative:utilities\\settingsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA15FCF2-F414-4567-A488-24DB749F1D06}|Template.csproj|F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\templatemod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA15FCF2-F414-4567-A488-24DB749F1D06}|Template.csproj|solutionrelative:templatemod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA15FCF2-F414-4567-A488-24DB749F1D06}|Template.csproj|F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\data\\templatesettingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA15FCF2-F414-4567-A488-24DB749F1D06}|Template.csproj|solutionrelative:data\\templatesettingspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA15FCF2-F414-4567-A488-24DB749F1D06}|Template.csproj|f:\\rwmodcategories\\neronix17\\template 1.6\\1.6\\source\\template\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Template",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\Template.csproj",
+              "RelativeDocumentMoniker": "Template.csproj",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\Template.csproj",
+              "RelativeToolTip": "Template.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-25T15:17:27.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogUtil.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\Utilities\\LogUtil.cs",
+              "RelativeDocumentMoniker": "Utilities\\LogUtil.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\Utilities\\LogUtil.cs",
+              "RelativeToolTip": "Utilities\\LogUtil.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:36:52.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TemplateSettingsPage.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\Data\\TemplateSettingsPage.cs",
+              "RelativeDocumentMoniker": "Data\\TemplateSettingsPage.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\Data\\TemplateSettingsPage.cs",
+              "RelativeToolTip": "Data\\TemplateSettingsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:31:42.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsUtil.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\Utilities\\SettingsUtil.cs",
+              "RelativeDocumentMoniker": "Utilities\\SettingsUtil.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\Utilities\\SettingsUtil.cs",
+              "RelativeToolTip": "Utilities\\SettingsUtil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:31:42.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemplateMod.cs",
+              "DocumentMoniker": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\TemplateMod.cs",
+              "RelativeDocumentMoniker": "TemplateMod.cs",
+              "ToolTip": "F:\\RWModCategories\\Neronix17\\TEMPLATE 1.6\\1.6\\Source\\Template\\TemplateMod.cs",
+              "RelativeToolTip": "TemplateMod.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T09:31:43.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
